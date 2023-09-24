@@ -10,7 +10,6 @@ body{
     justify-content:center;
 	width:100%;
 	align-items:center;
-    flex-wrap: wrap;
     padding: 0px;
 	box-shadow: 5px 5px 10px black;
 }
@@ -21,7 +20,7 @@ body{
     padding: 20px;
     text-align: center;
     margin: 10px;
-    width: 50%;
+    width: 92%;
 }
 .book >h2,.book>p{
 	text-align:left;
