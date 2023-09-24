@@ -14,6 +14,7 @@ body {
 	align-items:center;
     flex-wrap: wrap;
     padding: 20px;
+	box-shadow: 5px 5px 10px black;
 }
 
 .book {
@@ -22,16 +23,13 @@ body {
     padding: 20px;
     text-align: center;
     margin: 10px;
-    max-width: 300px;
+    max-width: 500px;
 }
 
 .book img {
     max-width: 100%;
 }
 
-h2 {
-    font-size: 1.2em;
-}
 
 .author {
     color: #777777;
